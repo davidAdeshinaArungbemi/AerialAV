@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="499" height="300" alt="aerial_av_soft" src="https://github.com/user-attachments/assets/5cce518c-ea5c-4337-a344-880d3d558b32" />
+</p>
+
+
 # AerialAV: Aerial Analysis and Visualisation
 
 ## Overview
